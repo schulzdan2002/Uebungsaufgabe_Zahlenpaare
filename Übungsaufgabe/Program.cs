@@ -46,7 +46,7 @@ namespace Übungsaufgabe
                     zahlb = ((zahl[indexofkom + 1] - 48)*10)+zahl[indexofkom+2];
                 }
             }
-            public static zahlenpaar operator +(zahlenpaar a1,zahlenpaar b1) // Additition von Zahlpaar 1 und Zahlenpaar 2
+            public static zahlenpaar operator +(zahlenpaar a1,zahlenpaar b1) // Additition von Zahlenpaar 1 und Zahlenpaar 2
             {
                 zahlenpaar z1 = new zahlenpaar();
                 z1.a = a1.a + b1.a;

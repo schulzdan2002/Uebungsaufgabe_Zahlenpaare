@@ -1,0 +1,13 @@
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.exe
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.deps.json
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.runtimeconfig.json
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.runtimeconfig.dev.json
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.dll
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\bin\Debug\netcoreapp3.1\Übungsaufgabe.pdb
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.csprojAssemblyReference.cache
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.AssemblyInfoInputs.cache
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.AssemblyInfo.cs
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.csproj.CoreCompileInputs.cache
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.dll
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.pdb
+C:\Users\Deinmum\source\repos\Übungsaufgabe\Übungsaufgabe\obj\Debug\netcoreapp3.1\Übungsaufgabe.genruntimeconfig.cache

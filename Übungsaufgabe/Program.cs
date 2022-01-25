@@ -15,13 +15,13 @@ namespace Übungsaufgabe
                 b = 0;
             }
 
-            public zahlenpaar(int zahl1,int zahl2)      // Konstruktor dem Werte überbegebn können als Integer
+            public zahlenpaar(int zahl1,int zahl2)      // Konstruktor dem Werte überbegeben können als Integer
             {
                 a = zahl1;
                 b = zahl2;
             }
 
-            public zahlenpaar(string zahl)      // Konstruktor dem Werte überbegebn können als String
+            public zahlenpaar(string zahl)      // Konstruktor dem Werte überbegeben können als String
             {
                 int indexofk1, indexofk2, indexofkom, zahla,zahlb;
                 indexofk1 = zahl.IndexOf('(');
